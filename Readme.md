@@ -43,7 +43,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 ### EDUCATION
 <!-- Add your details -->
 ##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+# Engineering Graduate 2010-14, First Division
 
 <!-- EDUCATION Section Ends -->
 
@@ -51,24 +51,24 @@ Engineering Graduate 2010-14, First Division
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
+# [Classification based projects](#classification-based-projects) <br>
+# [Regression based projects](#regression-based-projects) <br>
 
 <!-- Add your details -->
 
 #### Classification based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
+# ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
+# In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
+# [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
 #### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
+# ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
 
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
+# Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+# [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
 <!-- PROJECTS Section Ends -->
 
@@ -76,8 +76,8 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+# Machine Learning by Columbia University
 
 ##### Achievements
-Star performer of the year at Accenture
+# Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
