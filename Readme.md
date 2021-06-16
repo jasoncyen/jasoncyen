@@ -4,10 +4,8 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://sg.linkedin.com/in/chinyen) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+jasoncyen@gmail.com &nbsp;&nbsp; +65 9688 0594 &nbsp;&nbsp;&nbsp; [LinkedIn](https://sg.linkedin.com/in/chinyen) 
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website]()
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
