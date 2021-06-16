@@ -5,7 +5,6 @@
 
 <!-- Add your details -->
 jasoncyen@gmail.com &nbsp;&nbsp; +65 9688 0594 &nbsp;&nbsp;&nbsp; [LinkedIn](https://sg.linkedin.com/in/chinyen) 
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website]()
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
@@ -42,8 +41,9 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-
-# Engineering Graduate 2010-14, First Division
+Nanyang Technological University
+/ Bachelors of Engineering
+/ Mechanical & Production Engineering
 
 <!-- EDUCATION Section Ends -->
 
