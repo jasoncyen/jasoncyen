@@ -31,11 +31,9 @@ I am __Jason Chin__, a seasoned product engineer with years of progressive exper
 ### EXPERIENCE
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
-
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+Mar 2021 to Present
+ROLE: Trainee as Data Scientist/ Machine Learning Engineer/ AI Consultant
+UNIT: BCG
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
