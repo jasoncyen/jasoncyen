@@ -12,11 +12,11 @@ jasoncyen@gmail.com &nbsp;&nbsp; +65 9688 0594 &nbsp;&nbsp;&nbsp; [LinkedIn](htt
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://media-exp1.licdn.com/dms/image/C5603AQGDLjqZ1ZZSgw/profile-displayphoto-shrink_200_200/0/1607066104232?e=1629331200&v=beta&t=4o9aN8wmofQIizx4EhLJeC-ytP5a7AZb-0tbtR26K3U)
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Jason Chin__, a seasoned product engineer with years of progressive experience in medical device and consumer / industrial electronics design and development. I have helped grow start-ups in R&D industry and been a consultant for top-notch clients in their start-up journey. I am involved in comprehensive development, design & analysis of complex mechatronic devices to build medical devices, while facilitating and leading R&D teams.
 
 
 <!-- Add link to the sections -->
