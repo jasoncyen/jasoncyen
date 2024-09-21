@@ -15,7 +15,7 @@ jasoncyen@gmail.com &nbsp;&nbsp; +65 9688 0594 &nbsp;&nbsp;&nbsp; [LinkedIn](htt
 
 <!-- Add your details -->
 
-I am __Jason Chin__, a seasoned product engineer with years of progressive experience in medical device and consumer / industrial electronics design and development. I have helped grow start-ups in R&D industry and been a consultant for top-notch clients in their start-up journey. I am involved in comprehensive development, design & analysis of complex mechatronic devices to build medical devices, while facilitating and leading R&D teams.
+I am __Jason Chin__, a seasoned director with years of progressive experience in consumer / industrial electronics / medical device design and development. I have helped grow start-ups in R&D industry and been a consultant for top-notch clients in their start-up journey. Major roles involved comprehensive development, design & analysis of complex mechatronic devices, facilitating and leading R&D departments.
 
 
 <!-- Add link to the sections -->
